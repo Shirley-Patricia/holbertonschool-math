@@ -4,7 +4,7 @@
 /**
 * display_complex_number- initialize a variable.
 * @c: name struct complex
-* 
+*
 * Return: no return.
 */
 
