@@ -13,7 +13,7 @@ complex conjugate(complex c)
 	complex comp;
 
 	comp.re = c.re;
-	comp.im = (c.im * -1);	
+	comp.im = (c.im * -1);
 	return (comp);
 }
 
